@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 
-## hola 👋 Bienvenido, te presento mi perfil ✨
+## 💥 Holiii :D bienvenido a mi perfil 💮
 
-<p align="center"><img title="Lolibot" src="https://telegra.ph/file/24a4c7f209e59e40e6334.gif"></p>
+<p align="center"><img title="Shinobu" src="https://telegra.ph/file/24a4c7f209e59e40e6334.gif"></p>
 
 <p align="center">
-<img src="https://telegra.ph/file/addf80dc3c8ffd5db8a47.png" alt="The-LoliBot-MD" width="900"/>
+<img src="https://qu.ax/gjeJ.jpeg" alt="Shinobu_Kochi-MD" width="900"/>
 </p>
 
 <a href="https://www.youtube.com/@elrebelde.21" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
