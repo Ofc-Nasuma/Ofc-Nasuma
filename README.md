@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 
-## 💥 Holiii :D bienvenido a mi perfil 💮
+## 🎗️⦏ᴇ⦐⦏s⦐⦏ᴛ⦐⦏ᴇ⦐ ⦏ᴇ⦐⦏s⦐ ⦏ᴍ⦐⦏ɪ⦐ ⦏ᴘ⦐⦏ᴇ⦐⦏ʀ⦐⦏ꜰ⦐⦏ɪ⦐⦏ʟ⦐,⦏ʙ⦐⦏ɪ⦐⦏ᴇ⦐⦏ɴ⦐⦏ᴠ⦐⦏ᴇ⦐⦏ɴ⦐⦏⦏ɪ⦐⦏ᴅ⦐⦏ᴏ⦐...💥 
 
 <p align="center"><img title="Ruby" src="https://qu.ax/FEaq.gif"></p>
 
