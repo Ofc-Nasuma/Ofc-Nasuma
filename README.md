@@ -2,7 +2,7 @@
 
 ## 💥 Holiii :D bienvenido a mi perfil 💮
 
-<p align="center"><img title="Ruby" src="https://qu.ax/RmUW.jpeg"></p>
+<p align="center"><img title="Ruby" src="https://qu.ax/BpBC.jpeg"></p>
 
 <p align="center">
 <img src="https://qu.ax/JOSG.jpeg" "Ruby_Oshino-MD" width="900"/>
