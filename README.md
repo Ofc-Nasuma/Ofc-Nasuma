@@ -2,7 +2,7 @@
 
 ## 💥 Holiii :D bienvenido a mi perfil 💮
 
-<p align="center"><img title="Shinobu" src="https://qu.ax/pjLT.mp4"></p>
+<p align="center"><vid title="Shinobu" src="https://qu.ax/pjLT.mp4"></p>
 
 <p align="center">
 <img src="https://qu.ax/gjeJ.jpeg" alt="Shinobu_Kochi-MD" width="900"/>
