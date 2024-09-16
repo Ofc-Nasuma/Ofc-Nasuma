@@ -2,10 +2,10 @@
 
 ## 💥 Holiii :D bienvenido a mi perfil 💮
 
-<p align="center"><vid title="Shinobu" src="https://qu.ax/pjLT.mp4"></p>
+<p align="center"><img title="Ruby" src="https://qu.ax/RmUW.jpeg"></p>
 
 <p align="center">
-<img src="https://qu.ax/gjeJ.jpeg" alt="Shinobu_Kochi-MD" width="900"/>
+<img src="https://qu.ax/JOSG.jpeg" "Ruby_Oshino-MD" width="900"/>
 </p>
 
 <a href="https://www.youtube.com/@elrebelde.21" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
