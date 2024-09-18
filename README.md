@@ -2,9 +2,6 @@
 
 ## ¡Hola! 👋 Bienvenido(a) a mi perfil, soy Nasuma 💖✨
 
-alt="Ai Oshino GIF"/>
-<img src="https://qu.ax/mkZW.jpeg" width="150" 
-
 > **Entusiasta en el desarrollo de bots y tecnología.**
 
 ### Espero que disfrutes tu visita ✅
@@ -13,6 +10,10 @@ alt="Ai Oshino GIF"/>
 
 ### ❤️ Descubre más sobre mí y mis proyectos. ¡Únete y forma parte de nuestra comunidad tecnológica! ✨
 > `¡Juntos llevaremos la tecnología al siguiente nivel! 🫶`
+
+<div align="center">
+<img src="https://qu.ax/FEaq.gif" width="150" alt="Ruby Oshino GIF"/>
+</div>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
@@ -25,9 +26,8 @@ alt="Ai Oshino GIF"/>
 </p>
 
 <div align="center">
-<img src="https://qu.ax/NUwY.gif" width="150" 
+<img src="https://qu.ax/mkZW.jpeg" width="150" alt="Ai Oshino"/>
 <img src="https://qu.ax/ALbY.jpeg" width="150" alt="Ai Oshino"/>
-<img src="https://qu.ax/FEaq.gif" width="150" alt="Ruby Oshino GIF"/>
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
@@ -42,3 +42,4 @@ alt="Ai Oshino GIF"/>
 <img src="https://github.com/Ofc-Nasuma/Ofc-Nasuma/blob/main/line.gif" width="400vw"> 
 </p> 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
