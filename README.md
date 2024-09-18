@@ -51,4 +51,3 @@
 <img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
