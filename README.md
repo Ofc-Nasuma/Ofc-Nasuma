@@ -2,6 +2,9 @@
 
 ## ¡Hola! 👋 Bienvenido(a) a mi perfil, soy Nasuma 💖✨
 
+alt="Ai Oshino GIF"/>
+<img src="https://qu.ax/mkZW.jpeg" width="150" alt="Ai Oshino"/>
+
 > **Entusiasta en el desarrollo de bots y tecnología.**
 
 ### Espero que disfrutes tu visita ✅
@@ -22,8 +25,7 @@
 </p>
 
 <div align="center">
-<img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
-<img src="https://qu.ax/mkZW.jpeg" width="150" alt="Ai Oshino"/>
+<img src="https://qu.ax/NUwY.gif" width="150" 
 <img src="https://qu.ax/ALbY.jpeg" width="150" alt="Ai Oshino"/>
 <img src="https://qu.ax/FEaq.gif" width="150" alt="Ruby Oshino GIF"/>
 </div>
@@ -40,4 +42,3 @@
 <img src="https://github.com/Ofc-Nasuma/Ofc-Nasuma/blob/main/line.gif" width="400vw"> 
 </p> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
