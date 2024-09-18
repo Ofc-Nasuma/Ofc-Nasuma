@@ -39,14 +39,5 @@
 <p align="center"> 
 <img src="https://github.com/Ofc-Nasuma/Ofc-Nasuma/blob/main/line.gif" width="400vw"> 
 </p> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
-
-<a href="https://github.com/Ofc-Nasuma/Project1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ofc-Nasuma&repo=Project1&theme=ambient_gradient)</a>
-<a href="https://github.com/Ofc-Nasuma/Project2">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ofc-Nasuma&repo=Project2&theme=rose)</a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+PROYECTOS+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
-
-<a href="https://github.com/Colaboracion1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Colaboracion1&repo=Repo1&theme=cobalt)</a>
-<a href="https://github.com/Colaboracion2">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Colaboracion2&repo=Repo2&theme=merko)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
