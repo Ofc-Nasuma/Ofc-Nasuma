@@ -3,7 +3,7 @@
 ## 🎗️𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐 𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍, 𝒔𝒐𝒚 𝑵𝒂𝒔𝒖𝒎𝒂 𝒖𝒏 𝒈𝒖𝒔𝒕𝒐 :𝐃 ... 💥 
 
 <p align="center">
-  <img title="Ruby" src="https://i.imgur.com/3y7Jt6j.gif" width="150" />
+  <img title="Ruby" src="https://i.pinimg.com/originals/cd/2e/72/cd2e72b0c5db94308f1b04d8e33edc94.gif" width="150" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/8PhmDly.png" alt="Ai Oshino" width="500" />
+  <img src="https://i.pinimg.com/originals/ea/5b/53/ea5b53b62064f7fc8e80a8d4507c7094.png" alt="Ai Oshino" width="500" />
 </p>
 
 <h2 align="center">Pronto nuevas cosas...</h2>
