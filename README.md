@@ -3,7 +3,7 @@
 ## 🎗️𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐 𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍, 𝒔𝒐𝒚 𝑵𝒂𝒔𝒖𝒎𝒂 𝒖𝒏 𝒈𝒖𝒔𝒕𝒐 :𝐃 ... 💥 
 
 <p align="center">
-  <img title="Ruby" src="https://cdn.discordapp.com/attachments/987654321098765432/ruby.gif" width="150" />
+  <img title="Ruby" src="https://qu.ax/FEaq.gif" width="150" />
 </p>
 
 <p align="center">
@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/987654321098765432/ai_oshino.png" alt="Ai Oshino" width="500" />
+  <img src="https://qu.ax/mkZW.jpeg" alt="Ai Oshino" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://qu.ax/NUwY.gif" alt="Ai Oshino Gif" width="500" />
 </p>
 
 <h2 align="center">Pronto nuevas cosas...</h2>
