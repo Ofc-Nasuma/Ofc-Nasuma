@@ -2,7 +2,9 @@
 
 ## 🎗️𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐 𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍, 𝒔𝒐𝒚 𝑵𝒂𝒔𝒖𝒎𝒂 𝒖𝒏 𝒈𝒖𝒔𝒕𝒐 :𝐃 ... 💥 
 
-<p align="center"><img title="Ruby" src="https://qu.ax/FEaq.gif"></p>
+<p align="center">
+  <img title="Ruby" src="https://i.imgur.com/3y7Jt6j.gif" width="150">
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/@Nasuma_0" target="_blank">
@@ -14,6 +16,10 @@
   <a href="https://www.tiktok.com/@kamiki_hi?_t=8pmNf3mN5cL&_r=1" target="_blank"> 
     <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/x0A8ZrM.png" alt="Ai Oshino" width="500"/>
 </p>
 
 <h2 align="center">Pronto nuevas cosas...</h2>
