@@ -22,9 +22,9 @@
 </p>
 
 <div align="center">
+<img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
 <img src="https://qu.ax/mkZW.jpeg" width="150" alt="Ai Oshino"/>
 <img src="https://qu.ax/ALbY.jpeg" width="150" alt="Ai Oshino"/>
-<img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
 <img src="https://qu.ax/FEaq.gif" width="150" alt="Ruby Oshino GIF"/>
 </div>
 
