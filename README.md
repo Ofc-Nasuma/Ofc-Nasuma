@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=30&fontAlignY=35&animation=fadeIn"/>
 
-## 🎗️𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐 𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍, 𝒔𝒐𝒚 𝑵𝒂𝒔𝒖𝒎𝒂 𝒖𝒏 𝒈𝒖𝒔𝒕𝒐 :𝐃 ... 💥 
+## 🎗️ Bienvenido a mi perfil
+
+Soy Nasuma, un entusiasta de la tecnología y el desarrollo. En este perfil, encontrarás mis proyectos, colaboraciones y contribuciones a la comunidad. Mi objetivo es compartir conocimientos y fomentar la innovación.
 
 <p align="center">
   <img title="Ruby" src="https://qu.ax/FEaq.gif" width="150" />
@@ -26,10 +28,10 @@
   <img src="https://qu.ax/NUwY.gif" alt="Ai Oshino Gif" width="500" />
 </p>
 
-<h2 align="center">Pronto nuevas cosas...</h2>
+<h2 align="center">Explora y sígueme para más actualizaciones</h2>
 
 <p align="center">
   <a href="https://github.com/Ofc-Nasuma/Ofc-Nasuma">
-    <img src="https://qu.ax/JOSG.jpeg" alt="Ruby_Oshino-MD" width="900" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=footer&text=Gracias%20por%20visitar&fontSize=30&fontAlignY=30&animation=fadeIn" alt="Gracias por visitar" width="900" />
   </a>
 </p>
