@@ -38,9 +38,7 @@
 <br><br>
 </a>
 
-<p align="center"> 
-<img src="https://github.com/Ofc-Nasuma/Ofc-Nasuma/blob/main/line.gif" width="400vw"> 
-</p> 
+
 
 <div align="center">
 <img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
