@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=30&fontAlignY=35&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header&text=%F0%9F%8E%97%20𝒘𝒆𝒍𝒄𝒐𝒎𝒆%20%F0%9F%8E%97&fontSize=30&fontAlignY=35&animation=fadeIn"/>
 
-## 🎗️ Bienvenido a mi perfil
+## 🎗️ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒
 
-Soy Nasuma, un entusiasta de la tecnología y el desarrollo. En este perfil, encontrarás mis proyectos, colaboraciones y contribuciones a la comunidad. Mi objetivo es compartir conocimientos y fomentar la innovación.
+¡Hola! Soy 𝒩𝒶𝓈𝓊𝓂𝒶, un apasionado de la tecnología y el desarrollo. En este espacio encontrarás mis proyectos, colaboraciones y contribuciones a la comunidad. Mi meta es compartir conocimientos y fomentar la innovación.
 
 <p align="center">
   <img title="Ruby" src="https://qu.ax/FEaq.gif" width="150" />
@@ -28,15 +28,9 @@ Soy Nasuma, un entusiasta de la tecnología y el desarrollo. En este perfil, enc
   <img src="https://qu.ax/NUwY.gif" alt="Ai Oshino Gif" width="500" />
 </p>
 
-<h2 align="center">Estilos de Texto</h2>
-
-<p align="center">
-  <b>ᵉˢᵗⁱˡᵒ 1</b><br/>
-  <b>ℯ𝓈𝓉𝒾𝓁ℴ</b><br/>
-  <b>𝓮𝓼𝓽𝓲𝓵𝓸</b><br/>
-  <b>𝗲𝘀𝘁𝗶𝗹𝗼</b><br/>
-  <b>🇾  🇲 🇦 🇸 </b>
-</p>
+<h2 align="center">
+  𝓒𝒽𝒶𝓃𝑔𝒾𝓃𝑔 𝒞𝑜𝓁𝑜𝓇𝓈 & 𝒲𝒾𝓉𝒽 𝒯𝑒𝓍𝓉 𝒮𝓉𝒾𝓁𝑒𝓈
+</h2>
 
 <h2 align="center">Explora y sígueme para más actualizaciones</h2>
 
