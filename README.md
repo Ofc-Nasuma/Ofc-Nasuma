@@ -4,11 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+%C2%A1Hola!+%F0%9F%92%8C+Bienvenido(a)+a+mi+perfil,+soy+Nasuma+%F0%9F%92%9C%E2%9C%A8" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=BA52F6&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%8C+%C2%A1Hola!+Bienvenido(a)+a+mi+perfil,+soy+Nasuma+%F0%9F%92%9C" alt="Typing SVG" /></a>
-</div>
-
-## ¡Hola! 💌 Bienvenido(a) a mi perfil, soy Nasuma 💮🍂
 
 > **Entusiasta en el desarrollo de bots y tecnología.**
 
