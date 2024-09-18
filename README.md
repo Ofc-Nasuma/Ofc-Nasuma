@@ -28,6 +28,18 @@ Soy Nasuma, un entusiasta de la tecnología y el desarrollo. En este perfil, enc
   <img src="https://qu.ax/NUwY.gif" alt="Ai Oshino Gif" width="500" />
 </p>
 
+<h2 align="center">
+  <img src="https://via.placeholder.com/500x100/ff66b2/ffffff?text=Estilo%20de%20Texto%20Unico" alt="Texto Estilo 1" />
+</h2>
+
+<h2 align="center">
+  <img src="https://via.placeholder.com/500x100/00bfff/ffffff?text=Estilo%20de%20Texto%20Dos" alt="Texto Estilo 2" />
+</h2>
+
+<h2 align="center">
+  <img src="https://via.placeholder.com/500x100/32cd32/ffffff?text=Estilo%20de%20Texto%20Tres" alt="Texto Estilo 3" />
+</h2>
+
 <h2 align="center">Explora y sígueme para más actualizaciones</h2>
 
 <p align="center">
