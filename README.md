@@ -42,4 +42,8 @@
 <img src="https://github.com/Ofc-Nasuma/Ofc-Nasuma/blob/main/line.gif" width="400vw"> 
 </p> 
 
+<div align="center">
+<img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
