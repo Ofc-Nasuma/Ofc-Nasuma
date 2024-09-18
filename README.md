@@ -3,7 +3,7 @@
 ## ¡Hola! 👋 Bienvenido(a) a mi perfil, soy Nasuma 💖✨
 
 alt="Ai Oshino GIF"/>
-<img src="https://qu.ax/mkZW.jpeg" width="150" alt="Ai Oshino"/>
+<img src="https://qu.ax/mkZW.jpeg" width="150" 
 
 > **Entusiasta en el desarrollo de bots y tecnología.**
 
